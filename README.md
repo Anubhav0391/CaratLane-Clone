@@ -1,4 +1,4 @@
-#FRONT-END
+# FRONT-END
 
 # Infinity Stone  (CaratLane- Clone)
 
@@ -78,7 +78,7 @@ _ MongoDb Atlas
 
 
 
-#BACK-END
+# BACK-END
 
 
 # Infinity Stone Backend API
