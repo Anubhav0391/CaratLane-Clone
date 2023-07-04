@@ -76,10 +76,7 @@ _ MongoDb Atlas
 
 <img src="./Frontend/infinity-stone/src/ImageData/adminpage.png"/>
 
-
-
-
-
+<br/><br/><br/><br/><br/>
 
 
 
